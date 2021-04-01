@@ -1,5 +1,4 @@
-![idCloudHostLogo](https://api.idcloudhost.com/images/logo.svg)
-
+![idCloudHostLogo](https://idcloudhost.com/wp-content/uploads/2016/05/idCloudHost-Logo-horizontal-01.png)
 # Mobile Console version of idCloudHost web console (Unofficial)
 Mobile console is created for ease of use to controll VM without login to web console and additional feature that not coverred in web console.
 
